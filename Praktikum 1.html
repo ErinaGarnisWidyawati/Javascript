@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Soal 1 Konverensi Angka</title>
+    </head>
+   <SCRIPT language="JavaScript">
+        function test () {
+            var val1=document.kirim.Tn.value
+            if(val1 < 101)
+                document.kirim.Tp.value="A"
+            if(val1 < 93)
+                document.kirim.Tp.value="B"
+            if(val1 < 82)
+                document.kirim.Tp.value="C"
+            if(val1 < 74)
+                document.kirim.Tp.value="D"
+            if(val1 < 49)
+                document.kirim.Tp.value="E"
+            }
+   </SCRIPT>
+    <body>
+        <form method="POST" name="kirim">
+            <p>NILAI<input type="text" name="Tn" size="20">
+             PREDIKAT<input type="text" name="Tp" size="20">
+            </p>
+            <p><input type="button" value="CHECK" name="B1" onclick=test()>
+            </p>
+        </form>
+    </body>
+</html>
