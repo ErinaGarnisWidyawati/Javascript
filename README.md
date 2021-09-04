@@ -5,7 +5,7 @@
 # Latihan 3
 ![alt text](https://github.com/ErinaGarnisWidyawati/Javascript_Erina/blob/main/Screenshoot/latihan%203.PNG)
 # Latihan 4
-![alt text](https://github.com/ErinaGarnisWidyawati/Javascript_Erina/blob/main/Screenshoot/latihan%204.PNG
+![alt text](https://github.com/ErinaGarnisWidyawati/Javascript_Erina/blob/main/Screenshoot/latihan%204.PNG)
 # Aritmatika
 ![alt text](https://github.com/ErinaGarnisWidyawati/Javascript_Erina/blob/main/Screenshoot/aritmatika.PNG)
 # Operasi Relasional
